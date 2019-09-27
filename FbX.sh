@@ -13,8 +13,8 @@ echo
 echo  " ____________________-=[Private Tools]=-____________________" | lolcat
 echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : Ananta12                                 |" | lolcat
-echo  "|              Youtube         : Anantaeka_12.                           |" | lolcat
-echo  "|              gmail            : anantagaming12.com                |" | lolcat
+echo  "|              Instagram         : Anantaeka_12.                           |" | lolcat
+echo  "|              gmail                  : anantagaming12.com                |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
 date | lolcat
 echo
